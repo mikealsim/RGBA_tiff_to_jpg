@@ -4,20 +4,19 @@
 
 This should be about 3.5 times faster than compairable imagemagick scripts<br/>
 
-# To use:<pre>
-  -h, --help            show this help message and exit<br/>
-  -i INPATH, --inpath INPATH<br/>
+# To use:
+    -h, --help            show this help message and exit<br/>
+    -i INPATH, --inpath INPATH<br/>
     path to input file or folder<br/>
-  -o OUTPATH, --outpath OUTPATH<br/>
-                        path to output file or folder<br/>
-  -q QUALITY, --quality QUALITY<br/>
-                        jpeg quality value [0-100]<br/>
-  -f {j,jpg,t,tif}, --format {j,jpg,t,tif}<br/>
-                        output format<br/>
-  -ov, --overwrite      replace existing files<br/>
-  -r, --recurse         include all sub dirrectories<br/>
-  -cpu CPU, --cpu CPU   Percent of threads to CPUs [150 - 25]<br/>
-</pre>
+    -o OUTPATH, --outpath OUTPATH<br/>
+                      path to output file or folder<br/>
+    -q QUALITY, --quality QUALITY<br/>
+                      jpeg quality value [0-100]<br/>
+    -f {j,jpg,t,tif}, --format {j,jpg,t,tif}<br/>
+                      output format<br/>
+    -ov, --overwrite      replace existing files<br/>
+    -r, --recurse         include all sub dirrectories<br/>
+    -cpu CPU, --cpu CPU   Percent of threads to CPUs [150 - 25]<br/>
 
 # Install:
   requires python 64bit, tested with 3.8.6
