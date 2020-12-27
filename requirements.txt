@@ -1,0 +1,4 @@
+argparse
+numpy==1.19.3
+PyTurboJPEG>=1.4.1
+pyvips>=2.1.13
