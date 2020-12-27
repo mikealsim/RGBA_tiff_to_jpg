@@ -24,7 +24,7 @@ This should be about 3.5 times faster than compairable imagemagick scripts<br/>
     -cpu CPU, --cpu CPU   Percent of threads to CPUs [150 - 25]
 
 # Install:
-  requires python 64bit, tested with 3.8.6
+  requires python, 64bit suggested, tested with 3.8.6 on windows 10
 
   install libjpeg-turbo<br/>
   https://sourceforge.net/projects/libjpeg-turbo/files/<br/>
