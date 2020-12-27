@@ -7,7 +7,7 @@ This should be about 3.5 times faster than compairable imagemagick scripts<br/>
 # To use:
   -h, --help            show this help message and exit<br/>
   -i INPATH, --inpath INPATH<br/>
-                        + path to input file or folder<br/>
+       path to input file or folder<br/>
   -o OUTPATH, --outpath OUTPATH<br/>
                         ">"path to output file or folder<br/>
   -q QUALITY, --quality QUALITY<br/>
