@@ -4,7 +4,7 @@
 
 This should be about 3.5 times faster than compairable imagemagick scripts
 
-To use:
+# To use:
   -h, --help            show this help message and exit
   -i INPATH, --inpath INPATH
                         path to input file or folder
@@ -18,7 +18,7 @@ To use:
   -r, --recurse         include all sub dirrectories
   -cpu CPU, --cpu CPU   Percent of threads to CPUs [150 - 25]
 
-Install:
+# Install:
   requires python 64bit, tested with 3.8.6
 
   install libjpeg-turbo
@@ -29,9 +29,3 @@ Install:
   add vips\bin to system path (restart recomended)
 
   pip install -r requirements.txt
-
-requirements:
-  argparse
-  numpy==1.19.3
-  PyTurboJPEG>=1.4.1
-  pyvips>=2.1.13
