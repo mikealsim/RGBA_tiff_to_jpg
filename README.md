@@ -1,7 +1,7 @@
 # RGBA_tiff_to_jpg
-4 Band tiff to CMYK jpg to preserve 4 channels @ 8 bit as a jpg and the reverse process, using fast libraries TurboJpeg and vips. Created to compress 4 band tiffs for ftp while still being an easly viewable format, CMYK jpgs can are more effeciant than 2 jpgs. 
+4 Band tiff to CMYK jpg to preserve 4 channels @ 8 bit as a jpg and can the reverse process, using fast libraries TurboJpeg and vips. Created to compress 4 band tiffs for ftp while still being an easly viewable format, CMYK jpgs are up to 20% more effeciant than 2 seperate jpgs. 
 
-While the jpg is stored as CMYK the chanels are not changed. <br>
+While the jpg is stored as CMYK, the channels are unchanged. <br>
   R=C<br>
   G=M<br>
   B=Y<br>
